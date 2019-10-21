@@ -141,5 +141,101 @@ body{
             padding-top:2%;
             display:none;
         }
+        .projects_main{
+            position: absolute;
+            width:100%;
+            top:41%;
+            bottom:1%;
+            span{
+                position: absolute;                               
+                top:0%;
+                bottom:90%;                
+                width:100%;
+                font-size: 5vh;
+                border-top: 2px solid black;
+                border-bottom: 1px solid black;
+                p{
+                position: absolute;
+                margin:0;
+                padding:0;
+                left:13%;
+                }
+            }
+            .left_button{
+                position: absolute;
+                height:85%;
+                bottom: 0%;
+                width:19%;
+                left:0%;
+                background: black;
+                color:white;
+                cursor: pointer;
+                span{
+                    position: relative;
+                    top:35%;
+                    left:30%;
+                    border:none;
+                    font-size:16vh;
+                   
+                }               
+            }
+            .right_button{
+                position: absolute;
+                height:85%;               
+                bottom: 0%;
+                width:19%;
+                right:0%;
+                background: black;
+                color:white;
+                cursor: pointer;
+                span{
+                    position: relative;
+                    top:35%;
+                    left:30%;
+                    border:none;
+                    font-size:16vh;
+                    
+                }                
+            }  
+            #theyalow{
+                display:none;
+            }
+            #repair_design{
+                display: block;
+            }         
+            .projects{
+                position: absolute;
+                height:85%;
+                bottom: 0%;
+                width:61%;
+                left:19.5%;
+                right:19.5%;
+                span{
+                    border: none;
+                    width:50%;                   
+                }
+                ul{
+                    position: absolute;
+                    top:10%;
+                    width:50%;
+                    font-size:4vh;
+                } 
+                .photo{
+                    position: absolute;
+                    width:50%;
+                    height: 100%;                    
+                    right:0%;                                        
+                    background-image:url(../assets/phone.png);
+                    background-repeat: no-repeat;
+                    background-size: cover;                     
+
+                }
+                
+            }
+            #repair_design .photo{
+                    background-image:url(../assets/7.png);
+                }
+
+        }
     }
 }

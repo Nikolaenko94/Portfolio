@@ -119,5 +119,82 @@ body {
       border-bottom: 1px solid black;
       padding-top: 2%;
       display: none; }
+    body .main_block .projects_main {
+      position: absolute;
+      width: 100%;
+      top: 41%;
+      bottom: 1%; }
+      body .main_block .projects_main span {
+        position: absolute;
+        top: 0%;
+        bottom: 90%;
+        width: 100%;
+        font-size: 5vh;
+        border-top: 2px solid black;
+        border-bottom: 1px solid black; }
+        body .main_block .projects_main span p {
+          position: absolute;
+          margin: 0;
+          padding: 0;
+          left: 13%; }
+      body .main_block .projects_main .left_button {
+        position: absolute;
+        height: 85%;
+        bottom: 0%;
+        width: 19%;
+        left: 0%;
+        background: black;
+        color: white;
+        cursor: pointer; }
+        body .main_block .projects_main .left_button span {
+          position: relative;
+          top: 35%;
+          left: 30%;
+          border: none;
+          font-size: 16vh; }
+      body .main_block .projects_main .right_button {
+        position: absolute;
+        height: 85%;
+        bottom: 0%;
+        width: 19%;
+        right: 0%;
+        background: black;
+        color: white;
+        cursor: pointer; }
+        body .main_block .projects_main .right_button span {
+          position: relative;
+          top: 35%;
+          left: 30%;
+          border: none;
+          font-size: 16vh; }
+      body .main_block .projects_main #theyalow {
+        display: none; }
+      body .main_block .projects_main #repair_design {
+        display: block; }
+      body .main_block .projects_main .projects {
+        position: absolute;
+        height: 85%;
+        bottom: 0%;
+        width: 61%;
+        left: 19.5%;
+        right: 19.5%; }
+        body .main_block .projects_main .projects span {
+          border: none;
+          width: 50%; }
+        body .main_block .projects_main .projects ul {
+          position: absolute;
+          top: 10%;
+          width: 50%;
+          font-size: 4vh; }
+        body .main_block .projects_main .projects .photo {
+          position: absolute;
+          width: 50%;
+          height: 100%;
+          right: 0%;
+          background-image: url(../assets/phone.png);
+          background-repeat: no-repeat;
+          background-size: cover; }
+      body .main_block .projects_main #repair_design .photo {
+        background-image: url(../assets/7.png); }
 
 /*# sourceMappingURL=style.css.map */
