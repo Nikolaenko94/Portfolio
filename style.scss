@@ -47,7 +47,7 @@ body{
                     right:0%;
                     top:0%;
                     bottom:0%;
-                    font-size: 8vh;
+                    font-size: 4vw;
                     text-align: center;
                 } 
                 .git{
@@ -56,7 +56,7 @@ body{
                     width:100%;
                     top:30%;                    
                     text-align:center;
-                    font-size:5vh;
+                    font-size:2.5vw;
                     a{
                         text-decoration: none;
                     }
@@ -73,7 +73,7 @@ body{
                     width:100%;
                     top:50%;
                     text-align:center;
-                    font-size:5vh;                    
+                    font-size:2.5vw;                    
                     a{
                         text-decoration: none;
                     }
@@ -90,7 +90,7 @@ body{
                     width:100%;
                     top:70%;
                     text-align:center;
-                    font-size:5vh;
+                    font-size:2.5vw;
                     a{
                         text-decoration: none;
                     }
@@ -116,7 +116,7 @@ body{
             cursor: pointer;          
             .text_educ{
                 position: absolute;
-                font-size: 5vh;
+                font-size: 2vw;
                 left:13%;                
             }
             .arrow{
@@ -140,6 +140,7 @@ body{
             border-bottom: 1px solid black;
             padding-top:2%;
             display:none;
+            font-size: 1.3vw;
         }
         .projects_main{
             position: absolute;
@@ -151,7 +152,7 @@ body{
                 top:0%;
                 bottom:90%;                
                 width:100%;
-                font-size: 5vh;
+                font-size: 2vw;
                 border-top: 2px solid black;
                 border-bottom: 1px solid black;
                 p{
@@ -175,7 +176,7 @@ body{
                     top:35%;
                     left:30%;
                     border:none;
-                    font-size:16vh;
+                    font-size:3vw;
                    
                 }               
             }
@@ -193,7 +194,7 @@ body{
                     top:35%;
                     left:30%;
                     border:none;
-                    font-size:16vh;
+                    font-size:3vw;
                     
                 }                
             }  
@@ -218,7 +219,7 @@ body{
                     position: absolute;
                     top:10%;
                     width:50%;
-                    font-size:4vh;
+                    font-size:2vw;
                 } 
                 .photo{
                     position: absolute;
@@ -230,6 +231,24 @@ body{
                     background-size: cover;                     
 
                 }
+                .button_for_projects{
+                    position: absolute;
+                    width:45%;
+                    height: 30%;
+                    bottom:3%;
+                    cursor: pointer;
+                    .text_button{
+                        position: absolute;;
+                        width: 100%;
+                        height: 100%;                        
+                        font-size: 2vw;                        
+                        top:15%;
+                        left:0%;                     
+                        text-decoration: none;
+                        color:black;                        
+                    } 
+                          
+                }
                 
             }
             #repair_design .photo{
@@ -237,5 +256,8 @@ body{
                 }
 
         }
+       
     }
+  
+    
 }

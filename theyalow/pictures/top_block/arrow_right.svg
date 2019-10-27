@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 58" width="33" height="58">
+	<defs>
+		<image width="33" height="58" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAA6CAYAAAA+9TA3AAAB40lEQVRYR+3XzSsEYRwH8O/zjJnZtXkn5S2FGSmK0KYtB6WkxNFV/BEODv4IV/KSpbi6OeHiIHkJcaEckOQtu+zsarYoxtp9nhmRfnPYy87s79Pv+X2fZ4fhD1zMNjxuqInftBDirfvUCerE5yTSTNBM0EykOp8oHZSO/5EOtXIMPNACntOO2MUkXs7GXP8pE06Hr3E9CXi7YldzeD4ecgURRvjbzsHUkg9FrdtVRPd7pCHCCLViFGrVuKNg/OkQkZ0OwHoQxggj7ApZpSPQaiYcxRLWLSLbrUhET4UgUgi7glI0AL1uGuA+R8HIThDxh62MIdIIuwLPDUE3ZsG0cidkN4T4/WZGEFeIJMRvQDPmwQNNTsheF+J3a2khrhF2BZZVAM2ch5LX5SgYPeiHdbPyLcQTxPuMmGG7Nx/je72M6NHgzyOUwl7oRtgxpFYGgGQn7Q83L8RKfndyKZiSK9wBT45yJa8TmhEGU4ulAa46wXOC0M0FMK3MFUAawQPN0M1FMF+1a4AUgmc3QDMXwf2mJwAphF6/BKWwzzOAJ4hMY/jdRiEcUaZXQKudgp2M2OUMnk+G027L6W4QRqT7QZnvCeHJjinT+q+eoeWg5fg8FzQTNBM0E6l2WEoHpYPSkSodrz81E5irPChKAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="bnner+header">
+		<g id="ctrl">
+			<use id="Shape 1 copy" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+		</g>
+	</g>
+</svg>

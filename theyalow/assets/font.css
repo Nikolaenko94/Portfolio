@@ -1,0 +1,30 @@
+@font-face{
+    font-family: "Segoe WP";
+    src: url(Segoe_WP/ofont.ru_Segoe\ WP\ Light.ttf);
+}
+@font-face{
+    font-family: "Lucida Sans";
+    src: url(Lucida_Sans/lucida\ sans\ italic.ttf);
+
+}
+@font-face{
+    font-family: "Asap";
+    src: url(asap/Asap-Regular.ttf);
+    
+}
+@font-face {
+    font-family: "Segoe UI";
+    src: url(Segoe_UI/9404.ttf);
+}
+@font-face {
+    font-family: "PT Sans";
+    src: url(PT_sans/PTS55F.ttf);
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url(open_sans/OpenSans-Regular.ttf);
+}
+@font-face{
+    font-family: "PT Sans Narrow";
+    src: url(PT_sans_arrow/PTN57F.ttf);
+}
