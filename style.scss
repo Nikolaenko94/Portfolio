@@ -261,3 +261,94 @@ body{
   
     
 }
+@media all and (max-width:1927px){
+    body{
+        background-image:none;
+        background-color: rgba(63, 63, 170, 0.445);        
+    }
+    body .main_block .header img{
+        width:20%;
+        height:75%;
+    }
+}
+@media all and (max-width:1800px){
+    body{
+        background-image:none;
+        background-color: rgba(63, 63, 170, 0.445);        
+    }
+    body .main_block .header img{
+        width:30%;
+        height:75%;
+    }
+    body .main_block .header .my_description .git img{
+        width:10%;
+    }
+    body .main_block .header .my_description .instagram img{
+        width:10%;
+    }
+    body .main_block .header .my_description .linkedin img{
+        width:10%;
+    }
+    body .main_block .header .my_description .git a{
+        margin-left:10%;
+    }
+    body .main_block .header .my_description .instagram a{
+        margin-left:10%;
+    }
+    body .main_block .header .my_description .linkedin a{
+        margin-left:10%;
+    }
+}
+@media all and (max-width:1024px){
+    body .main_block .header img{
+        width:30%;
+        height:55%;
+    }
+    body .main_block .header .my_description .git img{
+        width:15%;
+    }
+    body .main_block .header .my_description .instagram img{
+        width:15%;
+    }
+    body .main_block .header .my_description .linkedin img{
+        width:15%;
+    }
+    body .main_block .header .my_description .git a{
+        margin-left:15%;
+    }
+    body .main_block .header .my_description .instagram a{
+        margin-left:15%;
+    }
+    body .main_block .header .my_description .linkedin a{
+        margin-left:15%;
+    }
+}
+@media all and (max-width:415px){
+    body .main_block .header img{
+        top:20%;
+        width:40%;
+        height:55%;
+    }
+    body .main_block .header .my_description .git img{
+        width:20%;
+        height:70%;
+    }
+    body .main_block .header .my_description .instagram img{
+        width:20%;
+        height:70%;
+    }
+    body .main_block .header .my_description .linkedin img{
+        width:20%;
+        height:70%;
+    }
+    body .main_block .header .my_description .git a{
+        margin-left:20%;
+        margin-top:20%;
+    }
+    body .main_block .header .my_description .instagram a{
+        margin-left:20%;
+    }
+    body .main_block .header .my_description .linkedin a{       
+        margin-left:20%;
+    }
+}
